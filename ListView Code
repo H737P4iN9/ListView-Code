@@ -3,7 +3,7 @@
 "Photo":"https://github.com/H737P4iN9/Data-/raw/main/HlaHlaMaw_Photo.jpg",
 "Name":"Hla Hla Maw",
 "Date":"6:42pm,Wed17August,2022",
-"MakeUp":"",
+"MakeUp":"Chotoo",
 "Camera":"",
 "Mark":"Off"
 }
@@ -12,7 +12,7 @@
 "Photo":"https://github.com/H737P4iN9/Data-/raw/main/Khin%20Moe%20Z.jpg",
 "Name":"Khin Moe Z",
 "Date":"11:30pm,Wed17August,2022",
-"MakeUp":"",
+"MakeUp":"Chotoo",
 "Camera":"",
 "Mark":"Off"
 }
@@ -21,7 +21,7 @@
 "Photo":"https://www.dropbox.com/s/xlwak09ujdu0xra/20220820_101804.jpg?dl=1",
 "Name":"Ni Ni Win",
 "Date":"12:51am,Sat20August,2022",
-"MakeUp":"",
+"MakeUp":"Chotoo",
 "Camera":"",
 "Mark":"off"
 }
@@ -30,7 +30,7 @@
 "Photo":"https://www.dropbox.com/s/q3dqpwop4q7fr00/20220820_161746.jpg?dl=1",
 "Name":"San Aye Yee",
 "Date":"4:24pm,Sat20August,2022",
-"MakeUp":"",
+"MakeUp":"Chotoo",
 "Camera":"",
 "Mark":"off"
 }
@@ -129,8 +129,17 @@
 "Photo":"https://github.com/H737P4iN9/Thazin-Phyo/raw/main/ThaZin%20Phyo%20Cover.jpg",
 "Name":"Thazin Phyo",
 "Date":"1:17pm,Wed9November,2022",
-"MakeUp":"Unknow",
+"MakeUp":"",
 "Camera":"TinSoe",
+"Mark":"On"
+}
+,
+{
+"Photo":"https://github.com/H737P4iN9/SanKyiKhine/raw/main/SanKyiKhine(Copy).jpg",
+"Name":"SanKyiKhine",
+"Date":"1:05pm,Thu10November,2022",
+"MakeUp":"Chotoo",
+"Camera":"",
 "Mark":"On"
 }
 ]
